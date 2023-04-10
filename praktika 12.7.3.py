@@ -26,5 +26,5 @@ for number in deposit:
     if number > max_deposit:
         max_deposit = number
 
-# Вывод максимального числа
+# Вывод максимальной суммы
 print("Максимальная сумма, которую вы можете заработать:", int(max_deposit))
